@@ -1,5 +1,7 @@
 # Awesome Movies for Language Learning
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 > Find movies that match your English, Spanish, German, or French level and
 > viewing style.
 
@@ -55,6 +57,8 @@ scenes, keep same-language subtitles on, and replay before attempting the whole
 film without support.
 
 ## Watch these movies with Termy
+
+<a href="https://termy.ai/"><img src="https://termy.ai/img/termy.webp" alt="Termy" width="72"></a>
 
 [Termy](https://termy.ai/) is a language-learning companion for Windows and
 macOS. Use it while watching any movie in this list to:
